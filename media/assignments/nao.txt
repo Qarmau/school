@@ -1,0 +1,37 @@
+create a django school website for Githumu High School with the following features and functionalities:
+1. the nav bar should have links to the following pages:    -Home
+                                                            -About
+                                                            -Administration
+                                                           
+                                                            -Teaching staff
+                                                            -Achievements
+                                                            -Holiday assignments
+2. Home page Should have the following links leading to the respective:     -Upcoming Events (updated via admin site)
+                                                                            -News (updated via admin site)
+                                                                            -Calendar of events (updated via admin site)
+3. About page should have the following sections (updated via admin site):  -History
+                                                                            -Population
+                                                                            -School motto
+                                                                            -vision
+                                                                            -mission
+                                                                            - subjects offered
+                                                                            - clubs and societies
+                                                                            -contact information and an email section with a functionality to send an email to a specif email
+                                                                            - google map
+4. Administration page should have the following. (updated via admin site)  - names, titles and photos of school administrators.
+                                                                            - style the names and photo to be displayed using inline-block
+                                                                            - arrange them from principal, deputy admin, deputy academics etc
+5. Teaching staff page should have the following. (updated via admin site)  - names and title and subjects that they teach
+                                                                            - style the names and photo to be displayed using inline-block
+                                                                            - arrange them from principal, deputy admin, deputy academics, HODS, TEACHERS etc
+6. Achievements page should have the following sections.(updated via admin site)        - a js graph of university admission rate over the years. (2014-2023)
+                                                                                        - co-curricular activities awards over the years style the names and photo to be displayed using inline-block starting with most recent.
+
+
+7. Holiday assignments page should have the following. (updated via admin site) -List of the holiday with a link.
+                                                                                - the link should lead to a page with  a list of grades( with links)
+                                                                                - the link should lead to a page with a list of assignments and a download button. and date uploades
+                                                                                
+8. Style the website with css, and make it responsive with js. : - make the site have a characteristic light blue hue
+                                                                 -all the links, buttons should have hover effects
+                                                                 - use js to make the pages interactive and dynamic
